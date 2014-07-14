@@ -1,0 +1,2 @@
+module ODataHelper
+end
